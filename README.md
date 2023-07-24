@@ -1,5 +1,8 @@
 # 700741613_NNDL_ICP3
 
+Video link: https://drive.google.com/file/d/1x1SK7jgB9yLtNhrrpefL58Dp90l9LYUc/view?usp=sharing
+
+
 
 Image classification with CNN.
 Use Case Description:
